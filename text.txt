@@ -1,3 +1,4 @@
  ptrerrhidjckjckfkfkslnv,lnvknvknvk,nvdn,nvk,fn,fnvk,dnvk,nvk
 commandes "git add .", preparer le fichier
 commandes "git commit -m """
+commandes "git push origin main"

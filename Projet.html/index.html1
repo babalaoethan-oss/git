@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="fr">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Stream</title>
+        <meta name="description" content="site">
+        <meta name="keywords" content="codage, informatique, code">
+        <meta name="developer" content="Babalao Ethan">
+        <link rel="shortcut icon" href="images/icone1.jpg" type="image/*">
+    </head>
+    <body>
+        <!--balises sémantiques-->
+        <nav></nav>
+        <header></header><!--menu complexe-->
+        <main></main>
+        <section></section>
+        <article></article>
+        <footer></footer>
+        <div></div><!--creer un bloc-->
+
+        <nav>
+            <div>
+                <img src="images/icone2.png" alt="Logo" width="50px">
+                <p>DStream</p>
+            </div>
+            <!--menu-->
+            <div>
+                <a href="#">Accueil</a><!--Creer des redirections sur la meme page avec #-->
+                <a href="#apropos">A propos</a>
+                <a href="#contact">Contact</a>
+                <a href="#services">Services</a>
+            </div>
+        </nav>
+        <!--le corps--> 
+        <main>
+            <section>
+                <div>
+                    <h1>Decouvrez toutes vos series préférée</h1>
+                    <p>La qualité assurée pour du contenue audio-visuel propre</p>
+                    <a href="#services">Observer la sélection</a>
+                </div>
+            </section>
+            <section>
+                <div>
+                    <video src="videos/Firstvideo.mp4" controls width="600px"></video>
+                    <!--vidéo youtube-->
+                    <iframe width="600" height="600" src="https://www.youtube.com/embed/E-jTT5jugSc" title="Dessiner en perspective sans points de fuite?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                </div>
+
+
+            </section>
+
+
+
+
+
+
+        </main>
+        <footer>
+            <!--n'importe quelle information-->
+        </footer>
+    </body>
+
+
+
+
+
+
+</html>
