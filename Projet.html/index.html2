@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="fr">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Stream</title>
+        <meta name="description" content="site de streaming">
+        <meta name="keywords" content="codage, informatique, code">
+        <meta name="developer" content="Babalao Ethan">
+        <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+    </head>
+    <body>
+        <h1 style="text-align: center; font-size: 60px ; color: rgb(8, 8, 90) ">Jestream</h1>
+        <p style= "text-align: center; font-size: 24px; color: rgb(61, 8, 110);">Le meilleur site de streaming de Côte d'ivoire</p>
+        <img src="https://ton-url-correcte.com/image.png"  width="145" height="126" alt="Description de l’image">
+        <img src="" alt="">
+    </body>
+
+met
+
+
+
+
+</html>
