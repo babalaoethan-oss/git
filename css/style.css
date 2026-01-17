@@ -1,0 +1,62 @@
+
+.position{
+    position: sticky;
+}
+.navtext{
+    font-size: 1.2rem;
+    margin-left: 10px;
+    text-decoration: none;
+    color: rgb(59, 58, 58);
+    font-weight:500;
+    }
+
+
+.size-image{
+    width: 90px;
+    border-radius: 100%;}
+.img_hero{
+ width: 1920px;
+ height: 890px;
+}
+.hero {
+    /* display: flex: permet d'aligner les éléments enfants horizontalement */
+    display: flex;
+    /* justify-content: center: centre les éléments au milieu horizontalement */
+    justify-content: center;
+    /* width: 100%: la largeur occupe 100% de la largeur de l'écran */
+    width: 100%;
+    /* height: 60vh: la hauteur est 60% de la hauteur visible de l'écran (vh = viewport height) */
+    height: 90vh;
+    /* align-items: center: centre verticalement tous les éléments */
+    align-items: center;
+    /* background: combine une image de fond avec un gradient (effet d'assombrissement) */
+    background: linear-gradient(#00000049, #00000049), url(/images_logos_videos/destinations-de-reve-zanzibar\ 1.jpg);
+    /* background-repeat: no-repeat: empêche l'image de fond de se répéter */
+    background-repeat: no-repeat;
+    /* background-position: center: positionne l'image au centre */
+    background-position: center;
+    /* background-size: cover: l'image remplit tout l'espace disponible */
+    background-size: cover;
+}
+.titre{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    gap: 20px;
+    text-align: center;
+    color: white;
+}
+.largeur{
+    width: 100%;
+    padding: 10px;
+    border-radius:20%;
+}
+
+.img_grid{
+    width: 100%;
+    height: auto;
+    margin: auto;
+    padding: 10px;
+    border-radius: 10%;
+}
+
